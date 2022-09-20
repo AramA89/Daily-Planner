@@ -37,6 +37,8 @@ THEN the saved events persist
 
 ## Deployed Webpage URL:
 
-
+https://arama89.github.io/Daily-Planner/
 
 ## GitHub Repository URL:
+
+https://github.com/AramA89/Daily-Planner
